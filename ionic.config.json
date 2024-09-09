@@ -1,0 +1,7 @@
+{
+  "name": "democristiana",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
